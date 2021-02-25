@@ -1,2 +1,2 @@
-# vuejs
+# Treinamentos de VueJS
 VueJS
